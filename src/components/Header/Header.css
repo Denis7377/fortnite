@@ -1,0 +1,11 @@
+.logo_img{
+    width: 150px;
+    height: 100px;
+}
+.title{
+    margin: 0;
+    padding: 120px 0 0 80px;
+    font-size: 26px;
+    font-weight: 600;
+    color: black;
+}
